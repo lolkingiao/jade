@@ -1,0 +1,44 @@
+Copyright © 2026 玉語軒 Jade & Silence · 聰 (Chung). All rights reserved.
+
+This repository contains original photographs, appraisal documents, catalogue
+copy and a custom website design. They are the property of the copyright
+holder and are NOT open source.
+
+本倉庫內之照片、藏品鑑定檔案、藏品文案及網站設計，均為版權持有人所有，
+並非開放源碼。
+
+NO LICENCE IS GRANTED
+----------------------
+No permission is granted to copy, reproduce, redistribute, modify, or use any
+part of this repository — including the photographs, the appraisal text and the
+site design — for any purpose, commercial or otherwise, without prior written
+permission from the copyright holder.
+
+Viewing this repository on GitHub, or the public website it generates, does not
+grant any licence.
+
+Specifically, and without limitation:
+
+1. The photographs in `assets/images/` and the original images in the repository
+   root may not be reused, rehosted, or used to train or illustrate any other
+   product or listing.
+2. The appraisal documents (`*.docx`) and their derived catalogue text are
+   private records of the copyright holder.
+3. The website design, layout, CSS and JavaScript in `assets/` may not be
+   copied or reused as a template for another site.
+
+THIRD-PARTY COMPONENTS
+-----------------------
+- Typefaces are loaded from Google Fonts and remain under their own licences
+  (SIL Open Font License 1.1): Noto Serif TC, Cormorant Garamond, Jost.
+- `premium-jade-ux-research.md` is desk research summarising publicly available
+  material. Quoted sources remain the property of their respective owners.
+
+NO WARRANTY
+------------
+The catalogue describes antique and vintage objects. Period references are
+stylistic attributions, not scientific dating. Nothing in this repository
+constitutes a certificate of authenticity, a laboratory report, or a legal
+opinion.
+
+For licensing enquiries, contact the copyright holder.
